@@ -8,10 +8,7 @@ This project is part of the Intelligent Systems course assignment. The goal is t
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Overview
 The project involves training a Convolutional Neural Network (CNN) to classify Arabic letters. The dataset contains variations of each letter (beginning, middle, end, and regular forms), as well as words and paragraphs.
 
